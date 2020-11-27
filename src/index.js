@@ -1,15 +1,20 @@
-// import _ from 'lodash';
+import './style.css';
 
-// const { Console } = require("console");
+import { header } from "./header";
+import { home } from './home';
+import { footer } from "./footer";
 
-//  function component() {
-//    const element = document.createElement('div');
- 
-//  // Lodash, now imported by this script
-//    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
- 
-//    return element;
-//  }
- 
-//  document.body.appendChild(component());
-alert('Wellcome to the restaurant')
+const homePage = document.getElementById("content");
+
+homePage.appendChild(header());
+homePage.appendChild(home());
+homePage.appendChild(footer());
+
+const menuPage = document.getElementById('menu')
+
+menuPage.appendChild(menu());
+
+
+
+const contactPage = document.getElementById('contact')
+contactPage.appendChild(contact());
