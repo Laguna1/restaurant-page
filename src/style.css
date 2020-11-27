@@ -41,14 +41,15 @@ footer {
 }
 
 .main-text {
-  padding-top: 30%;
+  padding-top: 20%;
   color: lightgoldenrodyellow;
   font-size: 2em;
 }
 
 span {
   color: lightgoldenrodyellow;
-  font-size: 4em;
+  font-size: 5em;
   font-style: italic;
+  font-weight: bold;
   text-transform: uppercase;
 }

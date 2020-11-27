@@ -37,3 +37,5 @@ Feel free to check the issues page. Show your support
 Give a ⭐️ if you like this project! Acknowledgments
 
 Thanks to Microverse for making this possible!
+
+Imagem de <a href="https://pixabay.com/pt/users/tama66-1032521/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3597677">Peter H</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3597677">Pixabay</a>
