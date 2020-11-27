@@ -1,0 +1,54 @@
+body {
+  box-sizing: border-box;
+  background-image: url(../src/restaurant.jpg);
+  margin: 0%;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  color: lightgoldenrodyellow;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+a:hover {
+  background-color: #555;
+}
+
+header {
+  border-bottom: 3px solid lightgoldenrodyellow;
+}
+header,
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  height: 7%;
+}
+
+footer {
+  bottom: 0;
+  border-top: 3px solid lightgoldenrodyellow;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-text {
+  padding-top: 30%;
+  color: lightgoldenrodyellow;
+  font-size: 2em;
+}
+
+span {
+  color: lightgoldenrodyellow;
+  font-size: 4em;
+  font-style: italic;
+  text-transform: uppercase;
+}
