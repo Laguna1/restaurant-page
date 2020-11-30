@@ -1,13 +1,12 @@
 function home() {
-  const element = document.createElement("div");
+    const element = document.createElement("div");
 
-  element.innerHTML = `<div class="main-wrap">
-    <p class="main-text">Wellcome to the</p><br> 
-    <span>restaurant</span>
-    <button>Show menu</button>
-    </div> `;
+    element.innerHTML = `<div class="main-wrap first-page">
+              <p class="main-text">Wellcome to the </p><br>
+              <h1>"our restaurant"</our></h1>
+              </div> `;
 
-  return element;
+    return element;
 }
 
 export { home };
