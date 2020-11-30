@@ -153,3 +153,22 @@ button {
 .contact-us {
   font-weight: bold;
 }
+
+@media screen and (max-width: 768px ) {
+  .first-page{
+    background-size: 140%;
+  } 
+
+  .main-text {
+    padding-top: 35%;
+  }
+
+  .menu-items {
+   grid-template-columns: 1fr;
+    margin-top: 10%;
+  }
+
+  .show-more {
+    left: 32%;
+  }
+}
