@@ -1,7 +1,8 @@
 function menu() {
     const element = document.createElement("div");
   
-    element.innerHTML = `<div class="menu-items">
+    element.innerHTML = `
+    <div class="menu-items main-wrap">
     <div class="item">1</div>
     <div class="item">2</div>
     <div class="item">3</div>
