@@ -5,18 +5,19 @@ Practice with DOM, dynamically providing a simple restaurant homepage. Only Java
  - HTML
  - CSS
  - Javascript
+ - Webpack
 
 
 ## Live Demo
 
-[Live demo]()
+[Live demo](https://rawcdn.githack.com/Laguna1/restaurant-page/tree/pages)
 
 
 ## Installation and Usage
- - Clone the repository git clone https://github.com/Laguna1/
- - cd Library
- - Open the html file in your browser
- - Click on 'new book' button to add new book or change a read-status
+ - Clone the repository git clone https://github.com/Laguna1/restaurant-page/tree/development
+ - cd restaurant-page
+ - Open the dist/index.html file in your browser
+ 
 
 
 ## Author
