@@ -1,7 +1,7 @@
 function contact() {
-    const element = document.createElement("div");
+  const element = document.createElement('div');
 
-    element.innerHTML = `<div class="contact-items">
+  element.innerHTML = `<div class="contact-items">
       <span class="contact-us">Address:</span>
       <span class="contact-info">Kharkiv, Nauki.av. 9</span>
       <span class="contact-us">Email:</span>
@@ -12,9 +12,7 @@ function contact() {
       <span class="contact-info">+38(095)8934567</span>
      </div> `;
 
-    return element;
+  return element;
 }
 
-export {
-    contact
-};
+export default contact;
