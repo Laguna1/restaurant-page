@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url(./fonts/Roboto-Italic.ttf);
+}
+
+@font-face {
+  font-family: 'Dancing Script', cursive;
+  src: url(./fonts/DancingScript-VariableFont_wght.ttf);
+}
+
 body {
   box-sizing: border-box;
   margin: 0;
@@ -96,7 +106,7 @@ button {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 100%;
-  border: 3px solid lightgoldenrodyellow;
+  border: 3px solid rgb(250, 250, 210);
   border-radius: 5%;
 }
 
@@ -131,7 +141,7 @@ button {
   align-items: center;
   margin-top: 2.6rem;
   padding-top: 15%;
-  background: linear-gradient(to right top, rgb(51, 224, 255), rgb(32, 189, 255), rgb(165, 254, 203));
+  background: linear-gradient(to right top, #7e7e7b, #33322a, #302f22, #747470);
 }
 
 .contact-us,
