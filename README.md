@@ -10,7 +10,7 @@ Practice with DOM, dynamically providing a simple restaurant homepage. Only Java
 
 ## Live Demo
 
-[Live demo](https://rawcdn.githack.com/Laguna1/restaurant-page/tree/pages)
+[Live demo](https://rawcdn.githack.com/Laguna1/restaurant-page/16f3cd0d01f128eae563dfe8fbcbcfaee326dc6f/dist/index.html)
 
 
 ## Installation and Usage
