@@ -1,4 +1,4 @@
-function home() {
+const home = () => {
   const element = document.createElement('div');
 
   element.innerHTML = `<div class="main-wrap first-page">

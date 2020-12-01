@@ -1,4 +1,4 @@
-function header() {
+const header = () => {
   const element = document.createElement('header');
 
   element.innerHTML = `<a href="#" id="home">Home</a>

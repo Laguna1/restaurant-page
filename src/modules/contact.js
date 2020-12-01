@@ -1,4 +1,4 @@
-function contact() {
+const contact = () => {
   const element = document.createElement('div');
 
   element.innerHTML = `<div class="contact-items">
