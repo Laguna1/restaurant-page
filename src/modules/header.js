@@ -6,6 +6,6 @@ const header = () => {
                          <a href="#" id="contact">Contact</a>`;
 
   return element;
-}
+};
 
 export default header;

@@ -12,6 +12,6 @@ const menu = () => {
      </div> `;
 
   return element;
-}
+};
 
 export default menu;
